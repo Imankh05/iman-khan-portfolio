@@ -73,6 +73,13 @@ Hello! I am Iman Khan, a second-year **Computer Science (Artificial Intelligence
 
 ---
 
+## 🏆 Honours & Awards
+- **The Josephine Connell Endowed Scholarship Fund** – Awarded for academic excellence in Computer Science
+- **The Duke of Edinburgh Bronze Award** – Awarded for completing the Bronze level of the Duke of Edinburgh Award, which involved volunteering, physical activity, skills development, and an expedition.
+- **UK Senior Maths Challenge** – Attained a **Silver Award** for high performance in the UK Senior Maths Challenge
+
+---
+
 ## 🏆 Certifications
 
 - **IBM Z Day 2024 - AI & Data**  
