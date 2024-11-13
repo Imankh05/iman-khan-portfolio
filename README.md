@@ -6,7 +6,7 @@ Hello! I am Iman Khan, a second-year **Computer Science (Artificial Intelligence
 
 - **Degree:** BSc (Hons) Computer Science (Artificial Intelligence) – *University of Hertfordshire* (2023 - 2027)
 - **Current GPA:** 3.88
-- **Location:** Hatfield, England, United Kingdom
+- **Location:** Watford, England, United Kingdom
 - **Open to Opportunities:** Industrial placements, collaborations, and freelance work.
 
 ---
