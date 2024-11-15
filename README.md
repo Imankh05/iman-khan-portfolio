@@ -84,10 +84,10 @@ Hello! I am Iman Khan, a second-year **Computer Science (Artificial Intelligence
 
 - **IBM Z Day 2024 - AI & Data**  
   *IBM*
-  - **Key Takeaways:**  
-  - Focused on the integration of Artificial Intelligence and Data science to solve real-world challenges.
-  - Explored how AI and data analytics are transforming industries such as healthcare, finance, and technology.
-  - Gained insights into cutting-edge AI technologies and their practical applications in data management and processing.
+  - **Key Takeaways:**
+    - Focused on the integration of Artificial Intelligence and Data science to solve real-world challenges.
+    - Explored how AI and data analytics are transforming industries such as healthcare, finance, and technology.
+    - Gained insights into cutting-edge AI technologies and their practical applications in data management and processing.
 
 - **Introduction to Artificial Intelligence (AI)**  
   *IBM*
