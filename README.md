@@ -13,11 +13,12 @@ Hello! I am Iman Khan, a second-year **Computer Science (Artificial Intelligence
 
 ## 💻 Skills
 
-- **Programming Languages:** Python, Java, JavaScript, SQL,
-- **Web Development:** HTML, CSS, JavaScript, PHP, MySQL
-- **AI/ML:** Generative AI, Natural Language Processing (NLP), Machine Learning, Large Language Models (LLMs)
-- **Tools & Software:** GitHub, Oracle, Microsoft Office
-- **Project Management:** Time Management, Leadership, Collaboration
+- **Programming Languages:** Python, C, Java, SQL, CSS, HTML, JavaScript
+- **Software Tools:** GitHub, Logisim (digital circuit design), BlueJ, Oracle, Microsoft Office
+- **AI & Machine Learning:** Generative AI, Natural Language Processing (NLP), Machine Learning, Large Language Models (LLMs), Prompt Design, AI Ethics
+- **Project Management:** Time Management, Leadership, Organisation
+- **Soft Skills:** Communication, Teamwork, Adaptability, Problem-solving
+
 
 ---
 
